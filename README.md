@@ -1,1 +1,1 @@
-# mcp-server
+MCP server with ts

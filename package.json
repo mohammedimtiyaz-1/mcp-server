@@ -1,0 +1,27 @@
+{
+  "name": "mcp",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mohammedimtiyaz-1/mcp-server.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mohammedimtiyaz-1/mcp-server/issues"
+  },
+  "homepage": "https://github.com/mohammedimtiyaz-1/mcp-server#readme",
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.17.2",
+    "express": "^5.1.0",
+    "tsx": "^4.20.3",
+    "typescript": "^5.9.2",
+    "zod": "^3.25.76"
+  }
+}
